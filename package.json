@@ -1,11 +1,9 @@
 {
   "name": "com.phonegap.eutenhodoisreais",
-  "version": "1.0.19",
+  "version": "1.0.20",
   "displayName": "Bíblia Sagrada ACF",
   "cordova": {
-    "platforms": [
-      "android"
-    ],
+    "platforms": [],
     "plugins": {
       "cordova-plugin-splashscreen": {},
       "cordova-plugin-whitelist": {},
